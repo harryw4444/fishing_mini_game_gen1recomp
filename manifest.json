@@ -1,0 +1,15 @@
+{
+  "id": "fishing_minigame",
+  "name": "Fishing Minigame",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "gameplay",
+  "category": "Gameplay",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Replaces standard fishing with a moving target bar minigame."
+}
