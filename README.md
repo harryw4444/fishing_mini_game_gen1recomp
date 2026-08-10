@@ -1,5 +1,5 @@
 ### 🎣 Fishing Mini Game Mod
-Replaces standard fishing with a moving target bar minigame.
+Replaces standard fishing with a moving target bar minigame.<br>
 Press A when the line crosses the fish!
 
 <img src="https://github.com/user-attachments/assets/b5b561c2-8f63-4ac4-9d9e-9954be3fefd3" alt="Fish Mini Game Preview" style="width: 200px; height: auto;" />
